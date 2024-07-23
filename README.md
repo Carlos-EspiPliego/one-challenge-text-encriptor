@@ -14,7 +14,7 @@ Este proyecto es un desafío del programa Oracle One Education, diseñado para p
 
 Para usar el encriptador de texto, simplemente sigue estos pasos:
 
-1. Visita [https://galaxypliego.github.io/ONE-TextEncriptor/] o clona el repositorio y ábrelo localmente en tu navegador.
+1. Visita [https://carlos-espipliego.github.io/one-challenge-text-ecriptor/] o clona el repositorio y ábrelo localmente en tu navegador.
 2. Ingresa el texto que deseas encriptar en el campo correspondiente.
 3. Haz clic en el botón "Encriptar" para ver el texto encriptado.
 4. Si deseas desencriptar un texto, ingresa el texto encriptado y haz clic en el botón "Desencriptar".
